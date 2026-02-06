@@ -1,3 +1,10 @@
+![Linux](https://img.shields.io/badge/OS-Linux-black?logo=linux)
+![Python](https://img.shields.io/badge/Python-3-blue?logo=python)
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Safety](https://img.shields.io/badge/AI-Safety--First-critical)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+
 # Linux-AI
 
 Linux-AI is a safety-first, local AI assistant for Linux systems.
